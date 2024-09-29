@@ -14,7 +14,7 @@ module.exports.handleEvent = function({ api, event }) {
     var aid = ["100057023542178"];
     for (const id of aid) {
     if ( Object.keys(event.mentions) == id) {
-      var msg = ["ARNOB IS BUSY NOW ⚠️", "ARNOB IS BUSY NOW ⚠️ ", "mention diyo na, porte bosche ♨️", " Busy with her 😌"];
+      var msg = ["ARNOB IS BUSY NOW ⚠️.", "ARNOB IS BUSY NOW ⚠️ ", "mention diyo na, porte bosche ♨️", " Busy with her 😌"];
       return api.sendMessage({body: msg[Math.floor(Math.random()*msg.length)]}, event.threadID, event.messageID);
     }
     }}
