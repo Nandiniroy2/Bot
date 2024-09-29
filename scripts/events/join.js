@@ -62,7 +62,7 @@ BOT CONNECTED SUCCESFUL !!!
 
 APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>\n\nTO VIEW ANY COMMAND Use👉${global.config.PREFIX}help\nSee command👉 ${global.config.PREFIX}command
-\n\EXAMPLE:👇\n${global.config.PREFIX}admin (information)\n${global.config.PREFIX}islam (video)\n${global.config.PREFIX}tik (link)\n${global.config.PREFIX}fbvideo (link)
+\n\EXAMPLE:👇\n${global.config.PREFIX}admin (information)\n${global.config.PREFIX}pair (fun)\n${global.config.PREFIX}tik (link)\n${global.config.PREFIX}fbvideo (link)
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
